@@ -13,10 +13,10 @@ Site desenvolvido para apresentar temas da redação com responsividade e foco e
 
 
 ## Link para o projeto publicado
-- Vercel: 
+- [Vercel](https://temasredacao.vercel.app/)
 
 
 ## Autores
-Nome(s): Ueslei Souza de Carvalho Filho e Lucas Guerra Sens
-Turma: 2B
-Professores: Carlos Roberto da Silva(Desenvolvimento de Sistemas) e Ana Carolina Dias(Linguagens)
+- Nome(s): Ueslei Souza de Carvalho Filho e Lucas Guerra Sens
+- Turma: 2B
+- Professores: Carlos Roberto da Silva(Desenvolvimento de Sistemas) e Ana Carolina Dias(Linguagens)
